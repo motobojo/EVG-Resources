@@ -1,6 +1,6 @@
 # 1. describe changes in this update
 
-$updateDescription = '"added generic update powershell script"'
+$updateDescription = '"added EVG MRB comparision page"'
 
 
 # note: to run copy this and paste into PowerShell prompt
