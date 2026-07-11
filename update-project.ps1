@@ -1,6 +1,6 @@
 # 1. describe changes in this update
 
-$updateDescription = '"added EVG MRB comparision page"'
+$updateDescription = '"tweak character set parameters"'
 
 
 # note: to run copy this and paste into PowerShell prompt
