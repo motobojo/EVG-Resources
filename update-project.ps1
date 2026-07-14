@@ -1,6 +1,6 @@
 # 1. describe changes in this update
 
-$updateDescription = '"tweak character set parameters"'
+$updateDescription = '"misc tweaks, especially updates to EVG & MRB comparison"'
 
 
 # note: to run copy this and paste into PowerShell prompt
