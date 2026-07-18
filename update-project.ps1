@@ -1,6 +1,6 @@
 # 1. describe changes in this update
 
-$updateDescription = '"misc tweaks, especially updates to EVG & MRB comparison"'
+$updateDescription = '"misc tweaks, especially updates to AI Prompt Tips and Tricks"'
 
 
 # note: to run copy this and paste into PowerShell prompt
