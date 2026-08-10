@@ -1,6 +1,6 @@
 # 1. describe changes in this update
 
-$updateDescription = '"misc tweaks, especially updates to AI Prompt Tips and Tricks"'
+$updateDescription = '"misc tweaks"'
 
 
 # note: to run copy this and paste into PowerShell prompt
