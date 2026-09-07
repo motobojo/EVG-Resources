@@ -1,6 +1,6 @@
 # 1. describe changes in this update
 
-$updateDescription = '"misc tweaks"'
+$updateDescription = '"still more misc tweaks"'
 
 
 # note: to run copy this and paste into PowerShell prompt
